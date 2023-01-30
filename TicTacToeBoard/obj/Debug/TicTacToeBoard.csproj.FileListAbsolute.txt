@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\TicTacToeBoard\bin\Debug\TicTacToeBoard.exe.config
+\\et-fileserver\staff\pawnol\Desktop\TicTacToeBoard\bin\Debug\TicTacToeBoard.exe
+\\et-fileserver\staff\pawnol\Desktop\TicTacToeBoard\bin\Debug\TicTacToeBoard.pdb
+\\et-fileserver\staff\pawnol\Desktop\TicTacToeBoard\obj\Debug\TicTacToeBoard.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\TicTacToeBoard\obj\Debug\TicTacToeBoard.exe
+\\et-fileserver\staff\pawnol\Desktop\TicTacToeBoard\obj\Debug\TicTacToeBoard.pdb

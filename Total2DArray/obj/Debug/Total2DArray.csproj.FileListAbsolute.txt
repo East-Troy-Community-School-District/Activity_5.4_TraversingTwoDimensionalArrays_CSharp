@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\bin\Debug\Total2DArray.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\bin\Debug\Total2DArray.exe
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\bin\Debug\Total2DArray.pdb
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\obj\Debug\Total2DArray.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\obj\Debug\Total2DArray.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\obj\Debug\Total2DArray.exe
+\\et-fileserver\staff\pawnol\Desktop\Total2DArray\obj\Debug\Total2DArray.pdb

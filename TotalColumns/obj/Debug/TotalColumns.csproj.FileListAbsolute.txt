@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\TotalColumns\bin\Debug\TotalColumns.exe.config
+\\et-fileserver\staff\pawnol\Desktop\TotalColumns\bin\Debug\TotalColumns.exe
+\\et-fileserver\staff\pawnol\Desktop\TotalColumns\bin\Debug\TotalColumns.pdb
+\\et-fileserver\staff\pawnol\Desktop\TotalColumns\obj\Debug\TotalColumns.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\TotalColumns\obj\Debug\TotalColumns.exe
+\\et-fileserver\staff\pawnol\Desktop\TotalColumns\obj\Debug\TotalColumns.pdb

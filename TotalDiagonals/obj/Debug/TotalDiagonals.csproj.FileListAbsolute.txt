@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\bin\Debug\TotalDiagonals.exe.config
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\bin\Debug\TotalDiagonals.exe
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\bin\Debug\TotalDiagonals.pdb
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\obj\Debug\TotalDiagonals.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\obj\Debug\TotalDiagonals.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\obj\Debug\TotalDiagonals.exe
+\\et-fileserver\staff\pawnol\Desktop\TotalDiagonals\obj\Debug\TotalDiagonals.pdb
