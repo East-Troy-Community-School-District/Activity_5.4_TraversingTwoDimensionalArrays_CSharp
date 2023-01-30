@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\TotalRows\bin\Debug\TotalRows.exe.config
+\\et-fileserver\staff\pawnol\Desktop\TotalRows\bin\Debug\TotalRows.exe
+\\et-fileserver\staff\pawnol\Desktop\TotalRows\bin\Debug\TotalRows.pdb
+\\et-fileserver\staff\pawnol\Desktop\TotalRows\obj\Debug\TotalRows.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\TotalRows\obj\Debug\TotalRows.exe
+\\et-fileserver\staff\pawnol\Desktop\TotalRows\obj\Debug\TotalRows.pdb

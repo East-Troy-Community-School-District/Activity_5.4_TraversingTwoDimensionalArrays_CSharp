@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\DanceFloor\bin\Debug\DanceFloor.exe.config
+\\et-fileserver\staff\pawnol\Desktop\DanceFloor\bin\Debug\DanceFloor.exe
+\\et-fileserver\staff\pawnol\Desktop\DanceFloor\bin\Debug\DanceFloor.pdb
+\\et-fileserver\staff\pawnol\Desktop\DanceFloor\obj\Debug\DanceFloor.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\DanceFloor\obj\Debug\DanceFloor.exe
+\\et-fileserver\staff\pawnol\Desktop\DanceFloor\obj\Debug\DanceFloor.pdb

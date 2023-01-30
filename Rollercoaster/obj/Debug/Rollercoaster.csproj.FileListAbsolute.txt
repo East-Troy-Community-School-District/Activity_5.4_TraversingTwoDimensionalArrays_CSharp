@@ -1,0 +1,6 @@
+\\et-fileserver\staff\pawnol\Desktop\Rollercoaster\bin\Debug\Rollercoaster.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Rollercoaster\bin\Debug\Rollercoaster.exe
+\\et-fileserver\staff\pawnol\Desktop\Rollercoaster\bin\Debug\Rollercoaster.pdb
+\\et-fileserver\staff\pawnol\Desktop\Rollercoaster\obj\Debug\Rollercoaster.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Rollercoaster\obj\Debug\Rollercoaster.exe
+\\et-fileserver\staff\pawnol\Desktop\Rollercoaster\obj\Debug\Rollercoaster.pdb

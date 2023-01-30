@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\bin\Debug\Print2DArray.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\bin\Debug\Print2DArray.exe
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\bin\Debug\Print2DArray.pdb
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\obj\Debug\Print2DArray.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\obj\Debug\Print2DArray.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\obj\Debug\Print2DArray.exe
+\\et-fileserver\staff\pawnol\Desktop\Print2DArray\obj\Debug\Print2DArray.pdb
